@@ -45,6 +45,7 @@ public class aritmetica {
         System.out.println("La resta es:" +resta);
         System.out.println("La multiplicacion es:" +multiplicacion);
         System.out.println("La division es:" +division);
-        System.out.println("El residuo es:" +res);    
+        System.out.println("El residuo es:" +res);  
+        System.out.println("Modificacion del programa en la rama desarrollo para despues fusionarla con la rama Master");
     }
 }
